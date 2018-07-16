@@ -1,0 +1,48 @@
+[33mcommit 6afef7692bdbad10af2eefa7be0ebeb46b9ea57d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 22:17:49 2018 +0300
+
+    another one
+
+[33mcommit 551713bc02a866830fc9e999c05f6799393edda6[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 22:14:41 2018 +0300
+
+    new change
+
+[33mcommit 7fbd14f0e45aa64b757bb4521b579fe609b1a4af[m
+Merge: cca1df8 2bf6abb
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 22:11:14 2018 +0300
+
+    Merge branch 'ThisBranch' just to merge stuff
+
+[33mcommit cca1df84f8040d868eb29da337002b31465e3889[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 22:10:06 2018 +0300
+
+    new update
+
+[33mcommit 2bf6abb48fab9cfa186f76fff861fafdd01142bf[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 22:02:18 2018 +0300
+
+    good
+
+[33mcommit 393fead1b6df20480407b581e3975c510d0fad24[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 21:49:20 2018 +0300
+
+    design
+
+[33mcommit 7e10114f847b9734476d17efebd9a2998384610f[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 21:35:14 2018 +0300
+
+    narda
+
+[33mcommit ba139e043576726d11c77dbf226eea807211c816[m
+Author: bill mpily mbogho <mboghobill16@gmail.com>
+Date:   Mon Jul 16 21:18:33 2018 +0300
+
+    initial commit
